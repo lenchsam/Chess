@@ -27,5 +27,7 @@ Hi! This project was created for me to be more comfortable with C++. It it curre
  - A chess game...
 # Contact
 [LinkedIn](https://www.linkedin.com/in/sam-lench-8586b6279/)
+
 [X](https://x.com/SamLenchGameDev)
+
 Email - samlenchgamedev@gmail.com
