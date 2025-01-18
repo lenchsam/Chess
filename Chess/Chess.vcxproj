@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Chess.cpp" />
+    <ClCompile Include="Display.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Display.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
